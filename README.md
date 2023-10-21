@@ -1,2 +1,3 @@
 # jogo-Ratatouille
-Jogo desenvolvido em C
+
+desenvolvido em 2014
